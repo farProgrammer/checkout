@@ -1,0 +1,32 @@
+img {
+    max-width: 50%;
+  
+  }
+
+  .image-center {
+    display: block;
+    margin: 10px auto;
+  
+  }
+  h1{
+    color:orangered;
+    text-decoration: gold  underline;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Peacock_Plumage.jpg/260px-Peacock_Plumage.jpg) ;
+  }
+  p{
+      color:purple;
+    
+  }
+  
+  
+  .col-sm-4{
+    font-weight: bolder;
+    font-style: oblique;
+  }
+  .form-control{
+    background-color: seashell;
+  }
+  body{
+    background-color: thistle;
+  }
+  
